@@ -4,7 +4,7 @@
 
 ## INTRODUCTION
 
-• It is the Youtube clone project. It can play,suggest,select the categories of videos.
+• It is the Youtube clone project. It can play,suggest,select the categories of videos and see comments
 
 • Data is fetched through YouTube Data API V3
 

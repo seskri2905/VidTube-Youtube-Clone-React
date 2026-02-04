@@ -1,5 +1,7 @@
 # VidTube-A YOUTUBE-CLONE ▶️YouTube🔴
 
+![Youtube-image](https://github.com/seskri2905/VidTube-Youtube-Clone-React/blob/d73d06744f173c36c41b500e5732a7a6aeea14a5/src/assets/youtube-image-readme.jpg)
+
 ---
 
 ## INTRODUCTION
@@ -34,8 +36,16 @@
 
 ---
 
-## FUTURE WORK
+## FUTURE WORK 🔮
 
 ### Search and Suggestion in Search Bar
 
 ---
+
+## Demo
+
+![youtube-gif](https://github.com/seskri2905/VidTube-Youtube-Clone-React/blob/d73d06744f173c36c41b500e5732a7a6aeea14a5/src/assets/youtube-video-readme.gif)
+
+---
+
+## Live Project - [Link](https://vidtube-youtube-clone.vercel.app/)
